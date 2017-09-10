@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../config-client/config-client.iml" filepath="$PROJECT_DIR$/../config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../config-server/config-server.iml" filepath="$PROJECT_DIR$/../config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eureka-provider/eureka-provider.iml" filepath="$PROJECT_DIR$/../eureka-provider/eureka-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-provider/eureka-provider.iml" filepath="$PROJECT_DIR$/eureka-provider/eureka-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hi-service/hi-service.iml" filepath="$PROJECT_DIR$/../hi-service/hi-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../miya-service/miya-service.iml" filepath="$PROJECT_DIR$/../miya-service/miya-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/../ribbon-consumer/ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/../server-zipkin/server-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/../service-zuul/service-zuul.iml" />
+    </modules>
+  </component>
+</project>

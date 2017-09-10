@@ -1,0 +1,18 @@
+#eureka∂ØÃ¨¬∑”…≈‰÷√
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:1111/eureka/
+server:
+  port: 8769
+spring:
+  application:
+    name: service-zuul
+zuul:
+  routes:
+    api-a:
+      path: /api-a/**
+      serviceId: hello-service-1
+    api-b:
+      path: /api-b/**
+      serviceId: hello-service-2
